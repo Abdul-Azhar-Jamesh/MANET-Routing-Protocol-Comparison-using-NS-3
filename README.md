@@ -104,6 +104,3 @@ All simulations are run with the **same topology, number of nodes, mobility patt
 
 ---
 
-## 👩‍💻 Author
-
-**Sandhiya D**
